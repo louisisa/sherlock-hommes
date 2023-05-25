@@ -9,10 +9,10 @@ export const Imageslider = () => {
             fpath: "./images/80s-Armani-robe-coat-500x694.jpg", desc: "Vintage Armani 80/90's"
         },
         {
-            fpath: "./images/Armani-suit-80s-556x770.jpg", desc: "Vintage Armani 80/90's"
+            fpath: "./images/armani-suit-80s-556x770.jpg", desc: "Vintage Armani 80/90's"
         },
         {
-            fpath: "./images/Armani-ties-and-suits-eighties-509x770.jpg", desc: "Vintage Armani 80/90's"
+            fpath: "./images/armani-ties-and-suits-eighties-509x770.jpg", desc: "Vintage Armani 80/90's"
         },
         {
             fpath: "./images/WALK_CON_COQUETTE.PNG", desc: "Vintage Armani 80/90's"
