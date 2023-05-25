@@ -7,7 +7,7 @@ export const Home = () => {
 
     const [blogs, setBlogs] = useState([
       {title: "Summer Hitlist", desc: "The most exciting things coming soon to my closet this summer...", imglink:"./images/art-three-header.png", id:3, urlroute: "art3", category:"Recs"},
-      {title: "Armani On Me", desc: "Vintage Giorgio Armani appreciation post...", imglink:"./images/armani_header.jpg", id:1, urlroute: "art1", category:"Style"},
+      {title: "Armani On Me", desc: "Vintage Giorgio Armani appreciation post...", imglink:"../images/armani_header.jpg", id:1, urlroute: "art1", category:"Style"},
       {title: "The tea on T.T", desc: "In remeberence of Taiga Takahashi, the sartorial archeologist.", imglink:"sherlock-hommes/images/taiga_takahashi_header.jpg", id:2, urlroute: "art2", category:"Style"},
         
       ]);
