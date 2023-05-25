@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sherlock-hommes/static/css/main.c8270e1f.css",
-    "main.js": "/sherlock-hommes/static/js/main.04b40657.js",
+    "main.js": "/sherlock-hommes/static/js/main.6a4d7446.js",
     "index.html": "/sherlock-hommes/index.html",
     "main.c8270e1f.css.map": "/sherlock-hommes/static/css/main.c8270e1f.css.map",
-    "main.04b40657.js.map": "/sherlock-hommes/static/js/main.04b40657.js.map"
+    "main.6a4d7446.js.map": "/sherlock-hommes/static/js/main.6a4d7446.js.map"
   },
   "entrypoints": [
     "static/css/main.c8270e1f.css",
-    "static/js/main.04b40657.js"
+    "static/js/main.6a4d7446.js"
   ]
 }
