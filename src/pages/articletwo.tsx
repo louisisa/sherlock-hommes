@@ -16,8 +16,8 @@ export const Articletwo = () => {
             <span className='font-semibold'>Self described <i>"Sartioral Archeologist"</i> Taiga Takahashi </span>
             geniously recreates vintage garments, using his near 1000 personal archived refrences. As an artist,
             designer, and visionary Takahashi experimented with the idea of time's imperfections and beauty through
-            many mediums, but one in particualr is cloth and textile's. The clothes Takahashi and his team makes are 
-            undoubtedly next level cool. Unfotunately, Takahashi unexpectedly passed away in 2022. His team continues
+            many mediums, but one in particular is cloth and textile's. The clothes Takahashi and his team makes are 
+            undoubtedly next level cool. Unfortunately, Takahashi unexpectedly passed away in 2022. His team continues
             his legacy and work through his label. 
 
             <div className=' my-5 flex flex-col grow sm:flex-row group justify-center '>

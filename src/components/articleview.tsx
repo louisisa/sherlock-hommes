@@ -31,7 +31,7 @@ export const Articleview = (props: any) => {
                     
                 </div>
 
-                <div className='translate-y-[-30px] sm:translate-y-0 container justify-center font-sanspub'> 
+                <div className=' -translate-y-9 sm:translate-y-0 container font-sanspub'> 
                     <span className='text-4xl md:text-5xl font-medium font-bebasneue group-hover:underline'> {blog.title} </span>
                     <p className='text-left text-sm sm:text-base py-1 mx-1'> {blog.desc} </p>
                 </div>

@@ -12,6 +12,7 @@ import { About } from './pages/about';
 import { Footer } from './components/footer';
 
 
+
 function App() {
 
   
@@ -23,7 +24,7 @@ function App() {
       <Navbar />
       
     
-        <Routes> 
+        <Routes>
           <Route path='/' element={<Home />} /> 
           <Route path='/art1' element={<Articleone />} />
           <Route path='/art2' element={<Articletwo />} />
